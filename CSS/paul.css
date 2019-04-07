@@ -401,3 +401,12 @@ right: -200px;
     background: url(../img/loader.gif)center center no-repeat;
 }
 
+
+.github {
+    display: block;
+    margin-top: 5%;
+    font-size: 5rem; 
+    color: white;
+    text-decoration: none;
+}
+
